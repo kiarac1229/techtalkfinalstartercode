@@ -1,0 +1,42 @@
+#change {
+    text-align:center;
+    font-family: 'Lobster';
+    font-size:70px;
+    color:white;
+    margin:40px;
+    }
+    
+ul {
+    list-style: none;
+    font-family: 'Indie Flower';
+    font-size:50px;
+    color: purple;
+    }
+    
+li {
+    float:left;
+    margin:20px;
+    }
+    
+body{
+    background-color:pink;
+    }
+.Chocolate{
+    font-weight: bold;
+}
+div{
+    background-color:lightblue;
+    padding:30px;
+    margin:50px;
+    float:center;
+}
+
+#Sweet{
+    font-style:italic;
+    font-size:70px;
+    
+}
+
+h3{
+    text-align:center;
+}
