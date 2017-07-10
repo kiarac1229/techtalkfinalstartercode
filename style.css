@@ -15,7 +15,7 @@ ol {
     
 li {
     float:left;
-    margin:50px;
+    margin:70px;
     }
     
 body{
@@ -26,14 +26,15 @@ body{
 }
 #Blue{
     background-color:lightblue;
-    padding:30px;
+    padding:50px;
     margin:50px;
     float:center;
+
 }
 
 #Sweet{
     font-style:italic;
-    font-size:70px;
+    font-size:100px;
     
 }
 
@@ -44,16 +45,19 @@ h3{
     background-color:LightSeaGreen ;
     border: solid;
     text-align:center;
+    font-size:50px;
 }
 
 .col-xs-12 {
     background-color: LightSalmon ;
     border: solid;
     text-align:center;
+    font-size:50px;
 }
 
 .col-xs-4 {
     text-align:center;
     background-color: Lightblue ;
     border: solid;
+    font-size:50px;
 }
